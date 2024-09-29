@@ -1,0 +1,79 @@
+body {
+    background-color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 200px;
+    margin: 0;
+}
+
+.Resume-container {
+    
+    background-color:grey;
+    padding: 20px;
+    border-radius: 8px; 
+    box-shadow: solid 0 4px 8px rgba(0, 0, 0, 0.2); 
+    display: flex;
+}
+
+
+h3 {
+    font-size: 22px;
+    color: rgb(32, 32, 160);
+    display: inline;
+
+}
+h4 {
+    font-size: 20px;
+    color: midnightblue;
+}
+
+.static-resume {
+    font-size: 50px;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    color: midnightblue; 
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+p {
+    font-size: 18px;
+}
+
+ul {
+    font-size: 18px;
+}
+
+
+.image{
+    padding: 50px;
+    margin-top: 10%;
+  background-color: grey;
+ border-radius: 500%;
+
+}
+
+.right{
+    width: 500px;
+}
+
+.button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 10px;
+    box-shadow:white;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 18px;
+    color: solid grey;
+   
+}
+
+button:hover {
+    background-color:midnightblue;
+    color: white;
+}
+
+
+
+
+
